@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+
+# Arquivos locais e documentos que não devem ir pro Git
+*.zip
+*.docx
+*.pdf
+placar.json
+savegame.json
+scratch/
+Explicacao_FrontEnd_Projeto.md
+
+# Arquivos gerados e utilitários
+*.txt
+!requirements.txt
+*.md
+!README.md
+*.svg
+*.png
+gen_uml.py
